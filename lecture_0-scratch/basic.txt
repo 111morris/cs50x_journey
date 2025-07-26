@@ -25,3 +25,11 @@ Basic Programming Concepts
    Breaking complex problems into smaller parts
 
 
+Example project ideas 
+1. A simple game (like a maze or pong)
+2. A quiz app 
+3. A bouncing ball with sound 
+4. An interactive story 
+
+
+

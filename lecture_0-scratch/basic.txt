@@ -1,0 +1,27 @@
+Topic covered 
+
+Basic Programming Concepts
+
+   Algorithms – Step-by-step instructions to solve problems
+
+   Events – Responding to user input (e.g., key press)
+
+   Conditionals – if, if/else logic
+
+   Loops – repeat, forever, repeat until
+
+   Variables – Storing and changing data
+
+   Functions (Custom Blocks) – Reusable code pieces
+
+   Parallelism – Multiple things happening at once
+
+ Computer Science Mindset
+
+   Problem solving
+
+   Logical thinking
+
+   Breaking complex problems into smaller parts
+
+
